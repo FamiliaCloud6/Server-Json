@@ -1,7 +1,6 @@
-{
-  "profiles": [
-    {
-      "_id": 1,
+[
+  {
+    "_id": 1,
       "picture": "https://source.unsplash.com/random/300x400",
       "name": "Nadine Knapp",
       "perfil": "@Santos",
@@ -70,5 +69,5 @@
       "perfil": "@Duncan",
       "description": "Sit laborum irure aliquip exercitation adipisicing aliquip tempor. Anim ullamco nostrud laboris in culpa. Pariatur reprehenderit eu labore quis proident pariatur."
     }
-  ]
-}
+]
+
