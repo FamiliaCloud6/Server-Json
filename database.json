@@ -1,7 +1,7 @@
 [
   {
     "_id": 1,
-    "picture": "https://picsum.photos/640/720",
+    "picture": "",
     "name": "Melisa Bernard",
     "description": "Id esse Lorem mollit @iMarke magna excepteur occaecat occaecat Lorem magna dolor proident. Sit minim aute pariatur ea voluptate quis. Commodo esse magna qui amet irure."
   },
@@ -19,7 +19,7 @@
   },
   {
     "_id": 4,
-    "picture": "https://picsum.photos/640/720",
+    "picture": "",
     "name": "Fletcher Blevins",
     "description": "Laborum officia laboris irure qui dolore cupidatat deserunt Lorem duis aute officia ut. Tempor ea duis ad nisi enim velit ad. Amet cillum dolor quis id aliqua elit quis fugiat minim veniam ea cillum proident cillum."
   },
@@ -55,7 +55,7 @@
   },
   {
     "_id": 10,
-    "picture": "https://picsum.photos/640/720",
+    "picture": "",
     "name": "Christian Adams",
     "description": "Veniam elit non officia tempor reprehenderit amet commodo ea cillum. Consectetur excepteur laborum qui ea amet dolor eu qui. Laborum officia est est voluptate ad est ipsum fugiat mollit fugiat mollit nisi qui."
   }
